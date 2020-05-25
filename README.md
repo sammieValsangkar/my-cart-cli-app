@@ -1,11 +1,11 @@
 # my-cart-cli-app
 shopping cart cli application
 
-#Requirement
+#Requirements
  - postgresql
  - ruby
  - gem pg
- - rspec
+ - gem rspec
 
 
 #Steps to run app
